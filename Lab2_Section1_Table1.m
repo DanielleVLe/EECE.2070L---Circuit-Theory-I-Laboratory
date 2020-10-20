@@ -1,6 +1,9 @@
-%Section 1- Ohm’s Law (Determining I)
+% Name:        Danielle Le 
+% Course:      EECE.2070L- Basic Electrical Engineering Laboratory I 
+% Lab #2:      Section 1- Ohm’s Law (Determining I)
+% Description: This is calculation is solving the third column: [I_R= V_R/R_(meas.) mA] in Table 1, Sect. 1
 
-%My data 
+% My data 
 a = [0, 2, 4, 6, 8, 10]; %Vr (VOM)-- Voltage going into circuit (x-axis)
 b = [0, 0.8, 1.2, 1.7, 2.4, 4.1]; %I (DMM)-- Current DMM measurements
 
