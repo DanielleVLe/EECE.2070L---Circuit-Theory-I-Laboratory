@@ -15,4 +15,4 @@ r5=324;
 rt= r1+r2+r3+r4+r5;
 
 %Print the total sum in cmd 
-fprintf('Total Resistance in Series: %g',rt)
+fprintf('Total Resistance in Series: %g Ω',rt)
